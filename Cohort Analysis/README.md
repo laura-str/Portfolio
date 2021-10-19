@@ -16,6 +16,7 @@ The task is to help optimize marketing expenses of a company that
 ~~~~python
 # defining a function that will add cohort name by conversion period
 def cohort(row):
+    
     conversion_days=row['conversion_days']
     
     if conversion_days == 0:
@@ -31,7 +32,7 @@ def cohort(row):
     return cohort
 
 # applying the function to the orders table
-orders['conversion_cohort'] = orders.apply(cohort,axis=1)
+orders['conversion_cohort'] = orders.apply(cohort, axis=1)
 ~~~~
 
 ### Conclusions
