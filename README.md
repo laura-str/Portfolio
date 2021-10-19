@@ -11,5 +11,5 @@ The language I used for this is **Python**, some libraries I used are *pandas*, 
 
 I recommend viewing the notebook directly on nbviewer to make sure that it is rendered correctly, and the hyperlinks work:
 
-[**See the Project**]("Cohort Analysis/README.md")
+[**See the Project**](Cohort%20Analysis)
 
