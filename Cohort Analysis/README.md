@@ -23,7 +23,9 @@ During our analysis we found out that these are the most profitable cohorts, sou
 * The customers that already visited our website one year ago tend to visit the site more often and make more purchases
 * Most users buy on their first visit or within the first week. After that they might return in later months for additional purchases
   
+  
 <img src="Cohort_Analysis.png">
+
 
 * The cost of acquiring new customers is around USD 9.00, but we spend more in the last month.
 * The average amount of money a customer spends during their lifetime is USD 10.00
@@ -32,8 +34,10 @@ During our analysis we found out that these are the most profitable cohorts, sou
 * Only two sources reached their ROMI, some others are close, but some like #3 are far from reaching it.
 * We should concentrate our marketing efforts on sources that see early conversions, like #5 and #10 and sources that see the highest and fastest revenue like #1, #2 and #5.
 
+<br>
+
 source_id|revenue|costs|profit
----|---|---|---
+---|--:|--:|--:
 1|45298|20833|24465
 2|61663|42806|18857
 3|43146|141321|-98174
@@ -43,6 +47,10 @@ source_id|revenue|costs|profit
 9|3991|5517|-1525
 10|4398|5822|-1424
 
+<br>
+
 We spend USD 77.000 more than we made, we need to cut back the marketing budget by at least this amount.
+
+**Recommendations**
 
 We should cut back the budget on source #3 where a lot of users converted early, and the number of buyers was the biggest, but they only spend USD 4.00 on average. We never came close to reaching ROMI from this source so maybe we should abandon this marketing channel altogether. Since we spend USD 141.321 on this source alone and only made USD 43.146 in return, abandoning this source would already gain us almost USD 100.000 which we could invest in more profitable sources.
