@@ -1,7 +1,7 @@
 # Portfolio
 ### *This is a repository to showcase projects I worked on.*
 
-## [Cohort Analysis]("Cohort Analysis/README.md")
+## [Cohort Analysis](Cohort%20Analysis)
 
 In this project I did a cohort analysis, calculating retention rates, ROMI, LTV and CAC.
 
