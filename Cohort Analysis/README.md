@@ -70,3 +70,4 @@ We spend USD 77.000 more than we made, we need to cut back the marketing budget 
 We should cut back the budget on source #3 where a lot of users converted early, and the number of buyers was the biggest, but they only spend USD 4.00 on average. We never came close to reaching ROMI from this source so maybe we should abandon this marketing channel altogether. Since we spend USD 141.321 on this source alone and only made USD 43.146 in return, abandoning this source would already gain us almost USD 100.000 which we could invest in more profitable sources.
 
 [*See the whole Jupyter Notebook*]("linktonotebook")
+
