@@ -13,7 +13,7 @@ The task is to help optimize marketing expenses of a company that
 * How much money each customer brings
 * When they pay off
 
-<img src="cohort_code.JPG" style="width: 70%">
+<img src="cohort_code.JPG" style="width: 70%" align="center">
 
 ### Conclusions
 During our analysis we found out that these are the most profitable cohorts, sources and devices:
