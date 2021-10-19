@@ -52,8 +52,6 @@ During our analysis we found out that these are the most profitable cohorts, sou
 * Only two sources reached their ROMI, some others are close, but some like #3 are far from reaching it.
 * We should concentrate our marketing efforts on sources that see early conversions, like #5 and #10 and sources that see the highest and fastest revenue like #1, #2 and #5.
 
-<br>
-
 source_id|revenue|costs|profit
 ---|--:|--:|--:
 1|45298|20833|24465
@@ -64,8 +62,6 @@ source_id|revenue|costs|profit
 7|1.22|-|-
 9|3991|5517|-1525
 10|4398|5822|-1424
-
-<br>
 
 We spend USD 77.000 more than we made, we need to cut back the marketing budget by at least this amount.
 
