@@ -13,19 +13,18 @@ The task is to help optimize marketing expenses of a company that
 * How much money each customer brings
 * When they pay off
 
-<img src="Monthly_Visits.png">
+<img src="cohort_code.JPG">
 
 ### Conclusions
 During our analysis we found out that these are the most profitable cohorts, sources and devices:
 
+<img src="Monthly_Visits.png">
 
 * Most of our users use a desktop device to visit our website, the also spend more time on the website than touch device users
 * The customers that already visited our website one year ago tend to visit the site more often and make more purchases
 * Most users buy on their first visit or within the first week. After that they might return in later months for additional purchases
   
-  
 <img src="Cohort_Analysis.png">
-
 
 * The cost of acquiring new customers is around USD 9.00, but we spend more in the last month.
 * The average amount of money a customer spends during their lifetime is USD 10.00
