@@ -1,6 +1,7 @@
 # Cohort Analysis
+*To view the whole Jupyter Notebook and the code I used follow this link: [Cohort Analysis Notebook]("linktonotebook")*
 
-The task is to help optimize marketing expenses of a company that 
+The task in this project was to help optimize marketing expenses of a company that promotes events & movies and sells tickets for them as well.
 
 **The Datasets:**
 * Server logs with data on visits from June 2017 through May 2018
@@ -8,10 +9,13 @@ The task is to help optimize marketing expenses of a company that
 * Marketing expenses statistics
 
 **The Tasks:**
-* How people use the product
-* When they start to buy
-* How much money each customer brings
-* When they pay off
+* How do people use the product?
+* When do they start to buy?
+* How much money does each customer bring?
+* When do customers pay off?
+
+
+To answer these questions I had to sort users into cohorts, for example by the month they first visited or the time that passed between their first visit and their first purchase.
 
 ~~~~python
 # defining a function that will add cohort name by conversion period
@@ -36,8 +40,6 @@ orders['conversion_cohort'] = orders.apply(cohort, axis=1)
 ~~~~
 
 ### Conclusions
-During our analysis we found out that these are the most profitable cohorts, sources and devices:
-
 <img src="Monthly_Visits.png">
 
 * Most of our users use a desktop device to visit our website, the also spend more time on the website than touch device users
