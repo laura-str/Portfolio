@@ -1,5 +1,5 @@
 # Cohort Analysis
-*To view the whole Jupyter Notebook and the code I used follow this link: [Cohort Analysis Notebook]("linktonotebook")*
+*To view the whole Jupyter Notebook and the code I used follow this link: [Cohort Analysis Notebook](https://nbviewer.org/github/laura-str/p100_Cohort_Analysis/blob/main/P100_Cohort_Analysis.ipynb)*
 
 The task in this project was to help optimize marketing expenses of a company that promotes events & movies and sells tickets for them as well.
 
@@ -72,5 +72,5 @@ We spend USD 77.000 more than we made, we need to cut back the marketing budget 
 
 We should cut back the budget on source #3 where a lot of users converted early, and the number of buyers was the biggest, but they only spend USD 4.00 on average. We never came close to reaching ROMI from this source so maybe we should abandon this marketing channel altogether. Since we spend USD 141.321 on this source alone and only made USD 43.146 in return, abandoning this source would already gain us almost USD 100.000 which we could invest in more profitable sources.
 
-[*See the whole Jupyter Notebook*]("linktonotebook")
+[*See the whole Jupyter Notebook*](https://nbviewer.org/github/laura-str/p100_Cohort_Analysis/blob/main/P100_Cohort_Analysis.ipynb)
 
