@@ -40,7 +40,7 @@ orders['conversion_cohort'] = orders.apply(cohort, axis=1)
 ~~~~
 
 ### Conclusions
-<img src="Cohort Analysis/Monthly_Visits.png">
+<img src="Monthly_Visits.png">
 
 * Most of our users use a desktop device to visit our website, the also spend more time on the website than touch device users
 * The customers that already visited our website one year ago tend to visit the site more often and make more purchases
