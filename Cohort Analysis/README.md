@@ -40,7 +40,7 @@ orders['conversion_cohort'] = orders.apply(cohort, axis=1)
 ~~~~
 
 ### Conclusions
-<img src="Monthly_Visits.png">
+<img src="Cohort Analysis/Monthly_Visits.png">
 
 * Most of our users use a desktop device to visit our website, the also spend more time on the website than touch device users
 * The customers that already visited our website one year ago tend to visit the site more often and make more purchases
@@ -57,20 +57,20 @@ orders['conversion_cohort'] = orders.apply(cohort, axis=1)
 
 source_id|revenue|costs|profit
 ---|--:|--:|--:
-1|45298|20833|24465
-2|61663|42806|18857
-3|43146|141321|-98174
-4|48308|61073|-12765
-5|45248|51757|-6508
-7|1.22|-|-
-9|3991|5517|-1525
-10|4398|5822|-1424
+1|$45,298|$20,833|$24,465
+2|$61,663|$42,806|$18,857
+3|$43,146|$141,321|$-98,174
+4|$48,308|$61,073|$-12,765
+5|$45,248|$51,757|$-6,508
+7|$1.22|-|-
+9|$3,991|$5,517|$-1,525
+10|$4,398|$5,822|$-1,424
 
-We spend USD 77.000 more than we made, we need to cut back the marketing budget by at least this amount.
+We spend $77,000 more than we made, we need to cut back the marketing budget by at least this amount.
 
 **Recommendations**
 
-We should cut back the budget on source #3 where a lot of users converted early, and the number of buyers was the biggest, but they only spend USD 4.00 on average. We never came close to reaching ROMI from this source so maybe we should abandon this marketing channel altogether. Since we spend USD 141.321 on this source alone and only made USD 43.146 in return, abandoning this source would already gain us almost USD 100.000 which we could invest in more profitable sources.
+We should cut back the budget on source #3 where a lot of users converted early, and the number of buyers was the biggest, but they only spent $4.00 on average. We never came close to reaching ROMI from this source so maybe we should abandon this marketing channel altogether. Since we spend $141,321 on this source alone and only made $43,146 in return, abandoning this source would already gain us almost $100,000 which we could invest in more profitable sources.
 
 [*See the whole Jupyter Notebook*](https://nbviewer.org/github/laura-str/p100_Cohort_Analysis/blob/main/P100_Cohort_Analysis.ipynb)
 
